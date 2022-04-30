@@ -16,9 +16,9 @@ For feature extractor, a pretrained model of MobileNet v2 is used. The model is 
 A global average pooling and dense layer are used as the classifier to output softmax signals. The softmax signals are used to identify the predicted class.
 
 
-[accuracy graph](https://user-images.githubusercontent.com/85603599/166097756-7f3ed58a-d810-41ac-94b7-3410b13167e5.jpg)
+![accuracy graph](https://user-images.githubusercontent.com/85603599/166097756-7f3ed58a-d810-41ac-94b7-3410b13167e5.jpg)
 
-![loss graph](https://user-images.githubusercontent.com/85603599/166097734-de4386c9-fc81-4842-a27d-23429626f245.jpg)!
+![loss graph](https://user-images.githubusercontent.com/85603599/166097734-de4386c9-fc81-4842-a27d-23429626f245.jpg)
 
 ### Result
 ![results](https://user-images.githubusercontent.com/85603599/166097826-a223e467-5dc5-475a-b260-26e5e67ddd26.jpg)
